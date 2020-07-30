@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;600&display=swap');
 
 body {
-    background: #dfdede;
+    background: linear-gradient(#ffd900, #940000);   
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
 
@@ -73,7 +73,7 @@ i.fa {
     color: #000000;
     background: #dde1e7;
     border-radius: 10px;
-    box-shadow: 10px 10px 7px #ff5e0073,
+    box-shadow: 10px 10px 7px #ff00bf73,
                  2px 2px 5px rgba(94,104,121,0.288);
     border: none;
 }
